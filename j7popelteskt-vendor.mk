@@ -34,6 +34,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j7popelteskt/proprietary/vendor/lib/libsecnativefeature.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsecnativefeature.so \
     vendor/samsung/j7popelteskt/proprietary/vendor/lib/libsensorlistener.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsensorlistener.so \
     vendor/samsung/j7popelteskt/proprietary/vendor/lib/libstagefrighthw.so:$(TARGET_COPY_OUT_VENDOR)/lib/libstagefrighthw.so \
+    vendor/samsung/j7popelteskt/proprietary/vendor/lib/libtinyalsa.so:$(TARGET_COPY_OUT_VENDOR)/lib/libtinyalsa.so \
     vendor/samsung/j7popelteskt/proprietary/vendor/lib/libuniplugin.so:$(TARGET_COPY_OUT_VENDOR)/lib/libuniplugin.so \
     vendor/samsung/j7popelteskt/proprietary/vendor/lib/libvirtualdisplay.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvirtualdisplay.so \
     vendor/samsung/j7popelteskt/proprietary/vendor/lib/vendor.samsung.hardware.gnss@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.samsung.hardware.gnss@1.0.so \
