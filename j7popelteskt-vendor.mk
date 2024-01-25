@@ -273,7 +273,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j7popelteskt/proprietary/vendor/lib/hw/memtrack.universal7870.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/memtrack.universal7870.so \
     vendor/samsung/j7popelteskt/proprietary/vendor/lib/hw/sensors.universal7870.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/sensors.universal7870.so \
     vendor/samsung/j7popelteskt/proprietary/vendor/lib/hw/vendor.samsung.hardware.gnss@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/vendor.samsung.hardware.gnss@1.0-impl.so \
-    vendor/samsung/j7popelteskt/proprietary/vendor/lib/hw/vulkan.exynos5.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/vulkan.exynos5.so \
     vendor/samsung/j7popelteskt/proprietary/vendor/lib/libLifevibes_lvverx.so:$(TARGET_COPY_OUT_VENDOR)/lib/libLifevibes_lvverx.so \
     vendor/samsung/j7popelteskt/proprietary/vendor/lib/libLifevibes_lvvetx.so:$(TARGET_COPY_OUT_VENDOR)/lib/libLifevibes_lvvetx.so \
     vendor/samsung/j7popelteskt/proprietary/vendor/lib/libMcClient.so:$(TARGET_COPY_OUT_VENDOR)/lib/libMcClient.so \
