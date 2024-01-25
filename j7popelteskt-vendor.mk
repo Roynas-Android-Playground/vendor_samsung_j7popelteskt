@@ -8,7 +8,7 @@ PRODUCT_SOONG_NAMESPACES += \
 PRODUCT_COPY_FILES += \
     vendor/samsung/j7popelteskt/proprietary/vendor/etc/mixer_paths.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mixer_paths.xml \
     vendor/samsung/j7popelteskt/proprietary/vendor/lib/hw/audio.primary.universal7870.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.primary.universal7870.so \
-    vendor/samsung/j7popelteskt/proprietary/vendor/lib/hw/camera.exynos7870.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/camera.exynos7870.so \
+    vendor/samsung/j7popelteskt/proprietary/vendor/lib/hw/camera.vendor.exynos7870.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/camera.vendor.exynos7870.so \
     vendor/samsung/j7popelteskt/proprietary/vendor/lib/hw/gralloc.exynos5.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/gralloc.exynos5.so \
     vendor/samsung/j7popelteskt/proprietary/vendor/lib/hw/hwcomposer.exynos5.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/hwcomposer.exynos5.so \
     vendor/samsung/j7popelteskt/proprietary/vendor/lib/libExynosHWCService.so:$(TARGET_COPY_OUT_VENDOR)/lib/libExynosHWCService.so \
@@ -255,7 +255,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j7popelteskt/proprietary/vendor/etc/wifi/bcmdhd_sta.bin_blob:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/bcmdhd_sta.bin_blob \
     vendor/samsung/j7popelteskt/proprietary/vendor/etc/wifi/cred.conf:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/cred.conf \
     vendor/samsung/j7popelteskt/proprietary/vendor/etc/wifi/indoorchannel.info:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/indoorchannel.info \
-    vendor/samsung/j7popelteskt/proprietary/vendor/etc/wifi/nvram.txt:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/nvram.txt \
+    vendor/samsung/j7popelteskt/proprietary/vendor/etc/wifi/nvram_net.txt:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/nvram_net.txt \
     vendor/samsung/j7popelteskt/proprietary/vendor/etc/wifi/p2p_supplicant_overlay.conf:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/p2p_supplicant_overlay.conf \
     vendor/samsung/j7popelteskt/proprietary/vendor/etc/wifi/wpa_supplicant_overlay.conf:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/wpa_supplicant_overlay.conf \
     vendor/samsung/j7popelteskt/proprietary/vendor/etc/yas_set.cfg:$(TARGET_COPY_OUT_VENDOR)/etc/yas_set.cfg \
