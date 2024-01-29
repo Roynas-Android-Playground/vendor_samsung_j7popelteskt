@@ -24,7 +24,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j7popelteskt/proprietary/vendor/lib/libsecaudioinfo.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsecaudioinfo.so \
     vendor/samsung/j7popelteskt/proprietary/vendor/lib/libsecnativefeature.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsecnativefeature.so \
     vendor/samsung/j7popelteskt/proprietary/vendor/lib/libsensorlistener.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsensorlistener.so \
-    vendor/samsung/j7popelteskt/proprietary/vendor/lib/libtinyalsa.so:$(TARGET_COPY_OUT_VENDOR)/lib/libtinyalsa.so \
+    vendor/samsung/j7popelteskt/proprietary/vendor/lib/libtinyalsa.exynos7870.so:$(TARGET_COPY_OUT_VENDOR)/lib/libtinyalsa.exynos7870.so \
     vendor/samsung/j7popelteskt/proprietary/vendor/lib/libuniplugin.so:$(TARGET_COPY_OUT_VENDOR)/lib/libuniplugin.so \
     vendor/samsung/j7popelteskt/proprietary/vendor/lib64/vendor.samsung.hardware.gnss@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.samsung.hardware.gnss@1.0.so \
     vendor/samsung/j7popelteskt/proprietary/vendor/app/RootPA/lib/arm/libcommonpawrapper.so:$(TARGET_COPY_OUT_VENDOR)/app/RootPA/lib/arm/libcommonpawrapper.so \
