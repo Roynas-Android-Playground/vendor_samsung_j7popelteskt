@@ -272,6 +272,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j7popelteskt/proprietary/vendor/lib64/hw/gatekeeper.exynos7880.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/gatekeeper.exynos7880.so \
     vendor/samsung/j7popelteskt/proprietary/vendor/lib64/hw/gps.default.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/gps.default.so \
     vendor/samsung/j7popelteskt/proprietary/vendor/lib64/hw/keystore.exynos7880.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/keystore.exynos7880.so \
+    vendor/samsung/j7popelteskt/proprietary/vendor/lib64/hw/power.universal7880.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/power.universal7880.so \
     vendor/samsung/j7popelteskt/proprietary/vendor/lib64/hw/vendor.samsung.hardware.gnss@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/vendor.samsung.hardware.gnss@1.0-impl.so \
     vendor/samsung/j7popelteskt/proprietary/vendor/lib64/libMcClient.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libMcClient.so \
     vendor/samsung/j7popelteskt/proprietary/vendor/lib64/libbt-vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libbt-vendor.so \
